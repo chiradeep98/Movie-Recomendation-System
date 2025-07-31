@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-🌐 **[Check it out here](https://your-live-deployment-url.com)**  
+🌐 **[Check it out here](https://chiradeep98.github.io/Movie-Recomendation-System)**  
 _(Replace this with your actual deployed app link.)_
 
 ---
